@@ -1,0 +1,18 @@
+1.git init
+2.git add first.txt
+3.git status
+4.git commit -m "adds firstbranch"
+5.git branch
+6.git chekout -b newbranch
+7.git status
+8.git mv first.txt firstone.txt
+9.git commit -am "adds some text"
+10.git diff master newbranch
+11.git branch --no-merged
+12.git log
+13.git checkout master
+14.git branch merged
+15.git branch
+16.git merge newbranch
+17.git log
+
